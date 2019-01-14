@@ -1,3 +1,5 @@
+_ISSUE_ TypeError: can't pickle _thread.RLock objects
+
 # The Transformer model in Attention is all you need：a Keras implementation.
 A Keras+TensorFlow Implementation of the Transformer: "[Attention is All You Need](https://arxiv.org/abs/1706.03762)" (Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin, arxiv, 2017)
 
